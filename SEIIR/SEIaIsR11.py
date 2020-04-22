@@ -5,9 +5,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 #from mpl_toolkits.axes_grid1.inset_locator import inset_axes
-
+ื
 from EpiModel import *
-
 
 # Asymptomatic individuals are often less infectious than those displaying symptoms by some fraction rbeta
 rbeta = 2 #0.75

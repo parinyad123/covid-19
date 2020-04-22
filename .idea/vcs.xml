@@ -4,5 +4,8 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Epidemiology101" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/epimodel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parameter/COVID19-SIR/COVID19-SIR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parameter/TEST/learn_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parameter/sir_example_main/param-estimation-SIR" vcs="Git" />
   </component>
 </project>
